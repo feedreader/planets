@@ -73,7 +73,7 @@ railstips:
 
 marcandre:
   title: Marc-André Lafortune
-  feed_url: http://blog.zenspider.com/atom.xml
+  feed_url: http://blog.marc-andre.ca/atom.xml
   url: http://blog.marc-andre.ca
 
 patshaughnessy:
@@ -112,7 +112,7 @@ sinatra:
 
 jekyll:
   title: Jekyll News
-  feed_url: http://jekyllrb.com/news/feed.xml
+  feed_url: http://jekyllrb.com/feed.xml
   url: http://jekyllrb.com/news
 
 rubymine:

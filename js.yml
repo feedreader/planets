@@ -1,15 +1,5 @@
 title: Planet JavaScript
 
-feeds:
-  - dailyjs
-  - nodejs
-#  - brendaneich
-  - thomasfuchs
-  - chromium
-  - html5rocks
-  - jquerymobile
-  - jqueryui
-
 
 dailyjs:
   title: DailyJS
@@ -21,10 +11,10 @@ nodejs:
   url: http://blog.nodejs.org
   feed_url: http://blog.nodejs.org/feed
 
-brendaneich:
-  title: Brendan Eich's Blog
-  url: http://brendaneich.com
-  feed_url: https://brendaneich.com/feed
+# brendaneich:
+#  title: Brendan Eich's Blog
+#  url: http://brendaneich.com
+#  feed_url: https://brendaneich.com/feed
 
 thomasfuchs:
   title: mir.aculo.us by Thomas Fuchs

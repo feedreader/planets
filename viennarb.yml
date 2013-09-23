@@ -1,11 +1,5 @@
 title: Planet vienna.rb
 
-feeds:
-  - viennarb
-  - viennarbmeetup
-  - beerdb
-  - sportdb
-  - slideshow
 
 viennarb:
   title: vienna.rb Blog
@@ -17,11 +11,11 @@ viennarbmeetup:
   url: http://www.meetup.com/vienna-rb
   feed_url: http://www.meetup.com/vienna-rb/events/rss/vienna.rb/
   
-viennarbmeetuprsvps:
-  title: vienna.rb Meetups RSVPs
-  url: http://www.meetup.com/vienna-rb
-  feed_url: http://www.meetup.com/vienna-rb/rsvps/rss/vienna.rb/ 
-  
+# viennarbmeetuprsvps:
+#  title: vienna.rb Meetups RSVPs
+#  url: http://www.meetup.com/vienna-rb
+#  feed_url: http://www.meetup.com/vienna-rb/rsvps/rss/vienna.rb/ 
+
 beerdb:
   title: Open Beer & Brewery Database (beer.db)
   url: http://groups.google.com/group/beerdb

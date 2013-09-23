@@ -1,14 +1,10 @@
 title: Planet Dart
 
-feeds:
-  - dartnews
-  - dartquestions
 
 dartnews:
   title: Dart News
   url: http://news.dartlang.org
   feed_url: http://news.dartlang.org/feeds/posts/default
-
 
 dartquestions:
   title: Dart Questions

@@ -1,37 +1,5 @@
 title: Planet Ruby
 
-feeds:
-  - rubyflow
-  - afreshcup
-  - edgerails
-  - rubyonrails
-  - railstutorial
-  - railscasts
-  - rubynews
-  - railstips
-  - rubymine
-  - viennarb
-  - viennarbmeetup
-  - beerdb
-  - sportdb
-  - slideshow
-  - sitepointruby
-  - rubyrogues
-  - ruby5
-  - zenspider
-  - akitaonrails
-  - rubygems
-  - sinatra
-  - jekyll
-  - rkh
-  - jruby
-  - pragdave
-  - headius
-  - tenderlove
-  - oreillyruby
-  - engineyardruby
-  - marcandre
-  - patshaughnessy
 
 ###################
 # Ruby People
@@ -191,10 +159,10 @@ viennarbmeetup:
   url: http://www.meetup.com/vienna-rb
   feed_url: http://www.meetup.com/vienna-rb/events/rss/vienna.rb/
   
-viennarbmeetuprsvps:
-  title: vienna.rb Meetups RSVPs
-  url: http://www.meetup.com/vienna-rb
-  feed_url: http://www.meetup.com/vienna-rb/rsvps/rss/vienna.rb/ 
+# viennarbmeetuprsvps:
+#  title: vienna.rb Meetups RSVPs
+#  url: http://www.meetup.com/vienna-rb
+#  feed_url: http://www.meetup.com/vienna-rb/rsvps/rss/vienna.rb/ 
 
 
 ##############################

@@ -4,7 +4,10 @@ title: Planet Ruby
 ###################
 # Ruby People
 
-
+chadfowler:
+  title: Chad Fowler
+  feed_url: http://feeds.feedburner.com/ThePassionateProgrammer?format=xml
+  url: http://chadfowler.com
 
 zenspider:
   title: Polishing Ruby by Ryan Davis

@@ -4,6 +4,8 @@ title: Planet Ruby
 ###################
 # Ruby People
 
+
+
 zenspider:
   title: Polishing Ruby by Ryan Davis
   feed_url: http://blog.zenspider.com/atom.xml 
@@ -165,13 +167,23 @@ viennarbmeetup:
 #  feed_url: http://www.meetup.com/vienna-rb/rsvps/rss/vienna.rb/ 
 
 
-##############################
-# Ruby Service Companies
+##########################################
+# Ruby Service Companies & Consultants
 
 engineyardruby:
   title: Engine Yard Ruby
   feed_url: http://blog.engineyard.com/category/ruby/feed
   url: http://blog.engineyard.com/category/ruby
+
+noelrappin:
+  title: Rails Test Prescriptions by Noel Rappin
+  feed_url: http://www.noelrappin.com/railsrx/rss.xml
+  url: http://www.noelrappin.com/railsrx
+
+thoughtbot:
+  title: Giant Robots Smashing Into Other Giant Robots
+  feed_url: http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots
+  url: http://robots.thoughtbot.com
 
 
 ###################################
@@ -191,3 +203,11 @@ slideshow:
   title: Web Slideshow Alternatives (S9 and Friends)
   url: http://groups.google.com/group/webslideshow
   feed_url: https://groups.google.com/forum/feed/webslideshow/topics/atom.xml?num=15
+
+#############################
+# Meta
+
+pluto:
+  title: Planet Pluto News & Discussions
+  url: http://groups.google.com/group/feedreader
+  feed_url: https://groups.google.com/forum/feed/feedreader/topics/atom.xml?num=15

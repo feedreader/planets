@@ -1,0 +1,97 @@
+title: Planet Haskell
+
+###################
+#
+# For alternative planet see
+#   - http://planet.haskell.org
+
+
+##########################
+# Projects News
+
+ghc:
+  title: Glasgow Haskell Compiler News
+  url: http://ghc.haskell.org/trac/ghc/blog
+  feed_url: http://ghc.haskell.org/trac/ghc/blog?format=rss
+
+yesod:
+  title: Yesod Web Framework News
+  url: http://www.yesodweb.com/blog
+  feed_url: http://www.yesodweb.com/feed
+
+#########
+#  Magazine / Research Links
+
+monadreader:
+  title: The Monad Reader
+  url: http://themonadreader.wordpress.com
+  feed_url: http://themonadreader.wordpress.com/feed/
+
+lambdatheultimate:
+  title: Lambda the Ultimate
+  url: http://lambda-the-ultimate.org
+  feed_url: http://lambda-the-ultimate.org/rss.xml
+
+##################
+#  Service Companies
+
+fpcomplete:
+  title: FP Complete
+  url: http://www.fpcomplete.com
+  feed_url: https://www.fpcomplete.com/recent-content/feed
+
+fpcompleteii:
+  title: FP Complete News
+  url: https://www.fpcomplete.com/blog
+  feed_url: http://feeds.feedburner.com/fpcomplete
+
+welltyped:
+  title: Well-Typed (Haskell Consultants)
+  url: http://www.well-typed.com/blog
+  feed_url: http://www.well-typed.com/blog/rss2.xml
+
+#####################
+#  Learning Material
+
+haskellcast:
+  title: Haskell Cast
+  url: http://www.haskellcast.com
+  feed_url: http://www.haskellcast.com/feed.xml
+
+realworldhaskell:
+  title: Real World Haskell Book Blog
+  url: http://www.realworldhaskell.org/blog
+  feed_url: http://www.realworldhaskell.org/blog/feed/ 
+
+###################
+# Haskell People
+
+serpentine:
+  title: Bryan O'Sullivan's Blog
+  url: http://www.serpentine.com/blog
+  feed_url: http://www.serpentine.com/blog/feed/
+
+haskellforall:
+  title: Gabriel Gonzalez's Blog // Haskell for all
+  url: http://www.haskellforall.com
+  feed_url: http://www.haskellforall.com/feeds/posts/default
+
+luite:
+  title: Luite Stegeman's Blog
+  url: http://weblog.luite.com/wordpress
+  feed_url: http://weblog.luite.com/wordpress/?feed=rss2
+
+jaspervdj:
+  title: Jasper Van der Jeugt's Blog
+  url: http://jaspervdj.be
+  feed_url: http://jaspervdj.be/rss.xml
+
+
+##############################
+# Misc / Uncategorized
+
+# happstack:
+#  title: Happstack
+#  url: http://www.happstack.com/page/blog
+#  feed_url: ??
+

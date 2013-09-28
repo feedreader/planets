@@ -19,6 +19,14 @@ yesod:
   url: http://www.yesodweb.com/blog
   feed_url: http://www.yesodweb.com/feed
 
+###############################
+# Links
+
+hwn:
+  title: Haskell Weekly News
+  url: http://contemplatecode.blogspot.com
+  feed_url: http://contemplatecode.blogspot.com/feeds/posts/default
+
 #########
 #  Magazine / Research Links
 

@@ -68,6 +68,11 @@ jruby:
   feed_url: http://www.jruby.org/atom.xml
   url: http://www.jruby.org
 
+rubinius:
+  title: Rubinius News
+  feed_url: http://rubini.us/feed/atom.xml
+  url: http://rubini.us/blog
+
 rubygems:
   title: RubyGems News
   feed_url: http://blog.rubygems.org/atom.xml
@@ -214,3 +219,4 @@ pluto:
   title: Planet Pluto News & Discussions
   url: http://groups.google.com/group/feedreader
   feed_url: https://groups.google.com/forum/feed/feedreader/topics/atom.xml?num=15
+

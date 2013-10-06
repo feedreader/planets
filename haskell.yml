@@ -44,11 +44,6 @@ lambdatheultimate:
 #  Service Companies
 
 fpcomplete:
-  title: FP Complete
-  url: http://www.fpcomplete.com
-  feed_url: https://www.fpcomplete.com/recent-content/feed
-
-fpcompleteii:
   title: FP Complete News
   url: https://www.fpcomplete.com/blog
   feed_url: http://feeds.feedburner.com/fpcomplete

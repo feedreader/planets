@@ -31,3 +31,10 @@ slideshow:
   url: http://groups.google.com/group/webslideshow
   feed_url: https://groups.google.com/forum/feed/webslideshow/topics/atom.xml?num=15
 
+###
+# Meta
+
+pluto:
+  title: Planet Pluto News & Discussions
+  url: http://groups.google.com/group/feedreader
+  feed_url: https://groups.google.com/forum/feed/feedreader/topics/atom.xml?num=15

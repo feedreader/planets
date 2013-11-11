@@ -12,6 +12,7 @@ First two planets site still up and running:
 More planets:
 
 - [Planet Ubuntu](http://planet.ubuntu.com) - (`planet.ubuntu.com`), [Hackergotchi Heads](http://planet.ubuntu.com/heads/)
+- [Planet Fedora](http://planet.fedoraproject.org) - (`planet.fedoraproject.org`)
 - [Planet Free Desktop](http://planet.freedesktop.org) - (`planet.freedesktop.org`)
 - [Planet KDE](http://planetkde.org) - (`planetkde.org`)
 

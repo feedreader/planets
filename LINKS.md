@@ -11,7 +11,26 @@ First two planets site still up and running:
 
 More planets:
 
-
+- [Planet Ubuntu](http://planet.ubuntu.com) - (`planet.ubuntu.com`), [Hackergotchi Heads](http://planet.ubuntu.com/heads/)
 - [Planet Free Desktop](http://planet.freedesktop.org) - (`planet.freedesktop.org`)
+- [Planet KDE](http://planetkde.org) - (`planetkde.org`)
 
+- [Planet Mozilla](http://planet.mozilla.org) - (`planet.mozilla.org`)
+- [Planet Firefox](http://planet.firefox.com) - (`planet.firefox.com`)
+
+- [Planet Document Foundation](http://planet.documentfoundation.org) - (`planet.documentfoundation.org`)
+- [Planet Apache](http://planet.apache.org/committers) - (`planet.apache.org`)
+
+- [Planet WordPress](http://planet.wordpress.org) - (`planet.wordpress.org`)
+- [A Better Planet WordPress](http://abetterplanetwp.com), [(Feed)](http://feeds.feedburner.com/ABetterPlanet-WordpressNews)
+- [Planet Drupal](http://drupal.org/planet)
+
+- [Planet Django](http://www.planetdjango.org)
+
+
+
+## River of News
+
+- [Dave's River](http://tabs.mediahackers.org/?panel=dave)
+- [Scripting Community News](http://river.scripting.com) - (`river.scripting.com`)
 

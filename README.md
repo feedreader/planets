@@ -13,7 +13,7 @@ Computers & Programming
 
 Food & Drinks
 
-- [Planet Beer](http:://planetbeer.herokuapp.com) - [(Config)](https://github.com/openbeer/planet)
+- [Planet Beer](http://planetbeer.herokuapp.com) - [(Config)](https://github.com/openbeer/planet)
 
 
 

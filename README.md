@@ -7,7 +7,7 @@ planet samples - planetarium
 
 Computers & Programming
 
-- [Planet Ruby](http://plutolive.herokuapp.com) - [(Config)](https://github.com/feedreader/planets)
+- [Planet Ruby](http://planetruby.herokuapp.com) - [(Config)](https://github.com/feedreader/planet-ruby)
 - [Planet Jekyll](http://planetjekyll.herokuapp.com) - [(Config)](https://github.com/feedreader/planet-jekyll)
 - [Planet Vienna.rb](http://viennarb.herokuapp.com) - [(Config)](https://github.com/vienna-rb/planet)
 

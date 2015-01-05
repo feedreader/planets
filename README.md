@@ -12,6 +12,8 @@ Computers & Programming
 - [Planet Jekyll](http://planetjekyll.herokuapp.com) - [(Config)](https://github.com/feedreader/planet-jekyll)
 - [Planet Vienna.rb](http://viennarb.herokuapp.com) - [(Config)](https://github.com/vienna-rb/planet)
 - [Planet Open Data](http://planetopendata.herokuapp.com) - [(Config)](https://github.com/feedreader/planet-opendata)
+- [Planet Web](http://planetweb.herokuapp.com) - [(Config)](https://github.com/feedreader/planet-web)
+
 
 Food & Drinks
 

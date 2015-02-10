@@ -7,9 +7,9 @@ planet samples - planetarium
 
 Computers & Programming
 
-- [Planet Ruby](http://planetruby.herokuapp.com) - [(Config)](https://github.com/feedreader/planet-ruby)
+- [Planet Ruby](http://planetruby.herokuapp.com) - [(Config)](https://github.com/planetruby/planet)
 - [Planet Ruby (Deutsch)](http://planet.ruby-portal.de) - [(Config)](https://github.com/Quintus/rubyplanet)
-- [Planet Jekyll](http://planetjekyll.herokuapp.com) - [(Config)](https://github.com/feedreader/planet-jekyll)
+- [Planet Jekyll](http://planetjekyll.herokuapp.com) - [(Config)](https://github.com/planetjekyll/planet)
 - [Planet Vienna.rb](http://viennarb.herokuapp.com) - [(Config)](https://github.com/vienna-rb/planet)
 - [Planet Open Data](http://planetopendata.herokuapp.com) - [(Config)](https://github.com/feedreader/planet-opendata)
 - [Planet Web](http://planetweb.herokuapp.com) - [(Config)](https://github.com/feedreader/planet-web)
@@ -17,7 +17,7 @@ Computers & Programming
 
 Food & Drinks
 
-- [Planet Beer](http://planetbeer.herokuapp.com) - [(Config)](https://github.com/openbeer/planet)
+- [Planet Beer](http://planetbeer.herokuapp.com) - [(Config)](https://github.com/planetbeer/planet)
 
 
 

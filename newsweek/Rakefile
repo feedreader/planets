@@ -1,0 +1,28 @@
+require 'hoe'
+require './lib/newsweek/version.rb'
+
+Hoe.spec 'newsweek' do
+
+  self.version = Newsweek::VERSION
+
+  self.summary = "newsweek - what's news? browse week by week - 99 channels, 1237 items"
+  self.description = summary
+
+  self.urls    = ['https://github.com/feedreader/planets']
+
+  self.author  = 'Gerald Bauer'
+  self.email   = 'wwwmake@googlegroups.com'
+
+  # switch extension to .markdown for gihub formatting
+  self.readme_file  = 'README.md'
+  self.history_file = 'CHANGELOG.md'
+
+  self.extra_deps = []
+
+  self.licenses = ['Public Domain']
+
+  self.spec_extras = {
+   required_ruby_version: '>= 2.2.2'
+  }
+
+end

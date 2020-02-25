@@ -8,6 +8,13 @@ planet samples - planetarium
 Computers & Programming
 
 - [OpenStreetMap Blogs](https://blogs.openstreetmap.org) - [(Config)](https://github.com/gravitystorm/blogs.osm.org)
+- [Unvanquished Activity](https://unvanquished.net/activity/) - [(Config)](https://github.com/Unvanquished/pluto-devfeeds)
+
+Upcoming
+
+- Planet OpenSUSE - [(Config)](https://github.com/opensuse/planet-o-o)
+
+Add Your Setup Here!
 
 
 ## Samples

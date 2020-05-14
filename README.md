@@ -14,6 +14,7 @@ Computers & Programming
 Upcoming
 
 - Planet OpenSUSE - [(Config)](https://github.com/opensuse/planet-o-o)
+- Planet Identity Reboot - [(Config)](https://github.com/didecentral/planetid-reboot)
 
 Add Your Setup Here!
 

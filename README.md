@@ -11,11 +11,11 @@ Computers & Programming
 - [Unvanquished Activity](https://unvanquished.net/activity/) - [(Config)](https://github.com/Unvanquished/pluto-devfeeds)
 - [Planet for the MySQL Community](http://planet-beta-pluto.oursqlcommunity.org/) (currently in Beta) - [(Config)](https://github.com/oursqlcommunity-org/planet)
 - [Links - a Bitcoin content aggregator](https://bitcoinwords.github.io/links/docs/planet.news.html) - [(Config)](https://github.com/bitcoinwords/links)
+- [Identosphere](https://identosphere.net) - [(Config)](https://github.com/didecentral/planetid-reboot) (Planet Identity Reboot)
 
 Upcoming
 
 - Planet OpenSUSE - [(Config)](https://github.com/opensuse/planet-o-o)
-- Planet Identity Reboot - [(Config)](https://github.com/didecentral/planetid-reboot)
 
 Add Your Setup Here!
 

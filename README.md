@@ -9,7 +9,6 @@ Computers & Programming
 
 - [OpenStreetMap Blogs](https://blogs.openstreetmap.org) - [(Config)](https://github.com/gravitystorm/blogs.osm.org)
 - [Unvanquished Activity](https://unvanquished.net/activity/) - [(Config)](https://github.com/Unvanquished/pluto-devfeeds)
-- [Planet for the MySQL Community](http://planet-beta-pluto.oursqlcommunity.org/) (currently in Beta) - [(Config)](https://github.com/oursqlcommunity-org/planet)
 - [Links - a Bitcoin content aggregator](https://bitcoinwords.github.io/links/docs/planet.news.html) - [(Config)](https://github.com/bitcoinwords/links)
 - [Identosphere Blogcatcher](https://identosphere.net/blogcatcher/) - [(Config)](https://github.com/identosphere/identity-blogcatcher) (Planet Identity Reboot)
 - [Planet OpenSUSE](https://planet.opensuse.org) - [(Config)](https://github.com/opensuse/planet-o-o), [(planet.rb Script)](https://github.com/openSUSE/planet-o-o/blob/master/bin/jekyll-planet.rb)
@@ -17,6 +16,12 @@ Computers & Programming
 - [Planet Gentoo](https://planet.gentoo.org) 
 
 Add Your Setup Here!
+
+More Upcoming 
+
+- [Planet for the MySQL Community](http://planet-beta-pluto.oursqlcommunity.org/) (currently in Beta) - [(Config)](https://github.com/oursqlcommunity-org/planet)
+
+Or Add Your Setup Here!
 
 
 ## Samples

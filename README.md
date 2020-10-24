@@ -11,7 +11,7 @@ Computers & Programming
 - [Unvanquished Activity](https://unvanquished.net/activity/) - [(Config)](https://github.com/Unvanquished/pluto-devfeeds)
 - [Planet for the MySQL Community](http://planet-beta-pluto.oursqlcommunity.org/) (currently in Beta) - [(Config)](https://github.com/oursqlcommunity-org/planet)
 - [Links - a Bitcoin content aggregator](https://bitcoinwords.github.io/links/docs/planet.news.html) - [(Config)](https://github.com/bitcoinwords/links)
-- [Identosphere Blogcatcher](https://identosphere.net/blogcatcher/) - [(Config)](https://github.com/didecentral/planetid-reboot) (Planet Identity Reboot)
+- [Identosphere Blogcatcher](https://identosphere.net/blogcatcher/) - [(Config)](https://github.com/identosphere/identity-blogcatcher) (Planet Identity Reboot)
 
 Upcoming
 

@@ -14,14 +14,9 @@ Computers & Programming
 - [Planet OpenSUSE](https://planet.opensuse.org) - [(Config)](https://github.com/opensuse/planet-o-o), [(planet.rb Script)](https://github.com/openSUSE/planet-o-o/blob/master/bin/jekyll-planet.rb)
 - [Planet KDE](https://planet.kde.org) - [(Config)](https://invent.kde.org/websites/planet-kde-org), [(planet.rb Script)](https://invent.kde.org/websites/planet-kde-org/-/blob/master/bin/jekyll-planet.rb)
 - [Planet Gentoo](https://planet.gentoo.org) 
+- [Planet for the MySQL Community](https://planet.oursqlcommunity.org/) - [(Config)](https://github.com/oursqlcommunity-org/planet)
 
 Add Your Setup Here!
-
-More Upcoming 
-
-- [Planet for the MySQL Community](http://planet-beta-pluto.oursqlcommunity.org/) (currently in Beta) - [(Config)](https://github.com/oursqlcommunity-org/planet)
-
-Or Add Your Setup Here!
 
 
 ## Samples
